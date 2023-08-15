@@ -1,4 +1,4 @@
-## Second-hand-car-analysis
+## Second hand car analysis
 
 In this Python data visualization project, the focus is on processing and visualizing data from a secondary car dataset. The initial step involves loading the data file and performing data cleaning to ensure accuracy. The dataset is then subjected to various visualizations to extract insights.
 
