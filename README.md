@@ -9,3 +9,5 @@ For categorical analysis, a bar chart is crafted to display the distribution of 
 Lastly, a Jointplot is used to highlight bivariate relationships, assisting in uncovering patterns between two variables.
 
 In summary, this Python project involves loading, cleaning, and visualizing secondary car data. Through pair plots, heatmaps, Lmplots, bar charts, histograms, and Jointplots, the project provides comprehensive insights into various aspects of the car dataset.
+
+### Objective of Analysis
