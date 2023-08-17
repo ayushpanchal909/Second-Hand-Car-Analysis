@@ -1,5 +1,4 @@
-## Second hand car analysis
-
+## Uncovering Patterns in Secondary Car Market Analysis
 In this Python data visualization project, the focus is on processing and visualizing data from a secondary car dataset. The initial step involves loading the data file and performing data cleaning to ensure accuracy. The dataset is then subjected to various visualizations to extract insights.
 
 A pair plot is generated to visually explore relationships between different numerical variables. A heatmap is employed to showcase correlations among these variables, aiding in identifying influential factors. Additionally, an Lmplot is created to illustrate linear relationships between key attributes.
